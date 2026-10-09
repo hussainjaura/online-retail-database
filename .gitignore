@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large media (host the demo video on YouTube instead)
+*.mp4
+*.mov
+
+# Office lock files
+~$*
