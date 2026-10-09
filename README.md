@@ -235,4 +235,4 @@ To explore the database without the app, open `database/online_retail.db` in [DB
 ## Author
 
 **Muhammad Hussain Zaib Jaura**, BSc Software Engineering
-[LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE) · [GitHub](https://github.com/YOUR-USERNAME)
+[LinkedIn](https://www.linkedin.com/in/muhammad-hussain-jaura-b303482b1/) · [GitHub](https://github.com/hussainjaura/Hussain-Portfolio)
